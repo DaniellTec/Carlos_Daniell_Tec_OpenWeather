@@ -1,0 +1,90 @@
+body {
+
+	background-image: url('https://i.ibb.co/S7V9qG1/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+ 	justify-content: center;
+  	align-items: center;
+
+}
+
+.box {
+
+	background: #000000d0;
+	border-radius: 25px;
+	color: #ffffff;
+	max-width: 553px;
+	
+	
+  }
+
+.textForms {
+
+
+	font-family:comic sans ms ;
+	font-size: 25px;
+	text-align: center;
+	
+  }
+
+.fields {
+
+	outline: none;
+	background: #7c7c7c2b;
+	color: white;
+	font-family: inherit;
+	max-width: 480px;
+	border-radius: 10px;
+	font-family:comic sans ms ;
+	text-align: center;
+	
+}
+
+  .content {
+
+	max-width: 500px;
+	margin: auto;
+	
+  }
+
+	p{
+
+	font-size: 25px;
+	font-family:comic sans ms ;
+	text-align: center;
+
+}
+
+  .textSearch { 
+
+
+	font-family:comic sans ms ;
+	font-size: 20px;
+
+  }
+
+  input.search-bar {
+
+	outline: none;
+	background: #7c7c7c2b;
+	color: white;
+	font-family:comic sans ms ;
+	max-width: 480px;
+	border-radius: 10px;
+	border-color: #8D1AFF;
+
+  }
+
+  input.form {
+
+	outline: none;
+	background: #7c7c7c2b;
+	color: white;
+	font-family:comic sans ms ;
+	max-width: 480px;
+	border-radius: 10px;
+	border-color: #8D1AFF;
+
+  }
+
